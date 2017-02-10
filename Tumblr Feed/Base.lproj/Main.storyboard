@@ -64,7 +64,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" id="1HD-j8-zWZ">
-                                <rect key="frame" x="-17" y="168" width="376" height="339"/>
+                                <rect key="frame" x="0.0" y="149" width="359" height="309"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -77,7 +77,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zsf-Lf-aR5" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="960.5" y="-97.5"/>
+            <point key="canvasLocation" x="1115.5" y="-119.5"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Tbe-T7-0Hq">
